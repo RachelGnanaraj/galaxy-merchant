@@ -1,0 +1,72 @@
+#App {
+  border: 2px solid black;
+  text-align: center;
+  background: #f5f5f5;
+  color: #333;
+  margin: 10px;
+  padding: 10px;
+  font-size:15px;
+  font-weight:bold;
+}
+
+#creditOutput {
+	margin-top:15px;
+	width:30%;
+	height:30px;
+	border: 1px solid black;
+}
+
+#networkError {
+	height:100px;
+	width:100px;
+	border:1px solid black;
+	display: none;
+}
+
+#ChosenInputs {
+	text-align:center;
+}
+
+#SetCommodityPrices {
+	text-align:center;
+}
+
+#chooseInputs {
+	text-align:center;
+}
+
+#QuantityInput {
+	text-align:center;
+}
+
+#ChooseCommodity {
+	text-align:center;
+}
+
+#CalculateOutput {
+	text-align:center;
+}
+
+.col-sm-6 {
+	margin-bottom:-120px;
+}
+
+.col-sm-12 {
+	margin-bottom:20px;
+}
+
+#selectedCommodity {
+	width:50%;
+}
+
+#chosenThingInputs {
+	width:30%;
+	height:50px;
+	border:1px solid black;
+	font-weight:bold;
+	font-size:2rem;
+}
+
+.inputBtn {
+	margin-right:10px;
+}
